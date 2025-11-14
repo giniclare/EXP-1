@@ -28,7 +28,7 @@ a.   KVL:
 5.   Set the input voltage to a value between 0V to 30V.
 6.   Record the voltage values shown in the voltmeter connected across each resistor.
 7.   Take readings for different values of input voltage and tabulate them.
-$$V=V_{30\Omega}+V_{50\Omega}+V_{100\Omega}
+$$V=V_{30\Omega}+V_{50\Omega}+V_{100\Omega}$$
 CIRCUIT DIAGRAM:<img width="1540" height="790" alt="BEEE 1" src="https://github.com/user-attachments/assets/4faf5913-0744-4947-a0fa-01dd29726f4c" />
 
 b.  KCL:
