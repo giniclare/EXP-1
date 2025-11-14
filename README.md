@@ -30,9 +30,6 @@ a.   KVL:
 7.   Take readings for different values of input voltage and tabulate them.
    CIRCUIT DIAGRAM:
 
-      $$V=V_{30\Omega}+V_{50\Omega}+V_{100\Omega}$$
-     
-                  <img width="1540" height="790" alt="BEEE 1" src="https://github.com/user-attachments/assets/4faf5913-0744-4947-a0fa-01dd29726f4c"/>
 
 b.  KCL:
 1.   Connect as per the circuit diagram.
@@ -48,7 +45,9 @@ CIRCUIT DIAGRAM:
 
 
 a.   KVL:
- 
+
+ <img width="1540" height="790" alt="BEEE 1" src="https://github.com/user-attachments/assets/9ed59a1f-140d-4d47-bb6a-d811bd97f5aa" />
+
 
 
 b.  KCL:
