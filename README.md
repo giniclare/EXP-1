@@ -32,7 +32,7 @@ a.   KVL:
 
       $$V=V_{30\Omega}+V_{50\Omega}+V_{100\Omega}$$
      
-                  <img width="1540" height="790" alt="BEEE 1" src="https://github.com/user-attachments/assets/4faf5913-0744-4947-a0fa-01dd29726f4c" />
+                  <img width="1540" height="790" alt="BEEE 1" src="https://github.com/user-attachments/assets/4faf5913-0744-4947-a0fa-01dd29726f4c"/>
 
 b.  KCL:
 1.   Connect as per the circuit diagram.
@@ -66,6 +66,11 @@ b.  KCL:
 
 
 Tabulation:
+|KVL|Source(V)|$$V_{30\Omega}$$|$$V_{50\Omega}$$|$$V_{100\Omega}$$|$$V_{30\Omega}+V_{50\Omega}+V_{100\Omega}$$|
+ |:-----:|:-----:|:------------:|:--------------:|:---------------:|:-----------------------------------------:|
+ |Theoretical|100|16.68V|27.8V|55.6V|100.05V|
+ |partical|100|16.7V|27.8V|55.6V|100.1V|
+ 
 
 a.   KVL:
  
