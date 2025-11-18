@@ -51,6 +51,9 @@ a.   KVL:
 
 
 b.  KCL:
+
+![beee2](https://github.com/user-attachments/assets/858530f0-fe87-4112-9460-cb93693a021a)
+
  
 
 Calculation:
