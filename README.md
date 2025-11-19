@@ -63,22 +63,34 @@ Calculation:
 
 a.   KVL:
 
-
- <img width="671" height="826" alt="image" src="https://github.com/user-attachments/assets/46b4e9c3-9d0e-4634-914a-3572dc0069c8" />
-
- 
-
-<img width="323" height="433" alt="Screenshot 2025-11-18 220231" src="https://github.com/user-attachments/assets/fb18e290-84ca-4caf-a93d-7cc0d91f23bd" />
+$$V=V_1+V_2+V_3$$
+$$100=IR_1+IR_2+IR_3$$
+$$R_{eq}=R_1+R_2+R_3$$
+$$R_{eq}=R_1+R_2+R_3$$
+$$R_{eq}=180\Omega$$
+$$I=\frac{V}{R_{eq}}=\frac{100}{180}=0.556V$$
+$$V_1=V_{30\Omega}=IR_1=0.556\times 30=16.$$
+$$V_2=V_{50\Omega}=IR_2=0.556\times 50=27.8V$$
+$$V_3=V_{100\Omega}=IR_3=0.556\times 100=55.6V$$
 
 
 b.  KCL:
 
+$$i_{30\Omega}=I_{50\Omega}+I_{100\Omega}$$
+$$i_{30\Omega}=100-V/30$$
+$$I_{50\Omega}=V/50$$
+$$I_{100\Omega}=V/50$$
+$$\frac{100-V}{30}=\frac{V}{50}+\frac{V}{100}$$
+$$\frac{100-V}{30}=\frac{2V}{100}+\frac{V}{100}$$
+$$\frac{100-V}{30}=\frac{2V+V}{100}$$
+$$\frac{100-V}{3}=\frac{3V}{10}$$
+$$1000-10V=9V$$
+$$19V=1000$$
+$$V=\frac{1000}{19}=52.63V$$
+$$i_{30\Omega}=\frac{100-V}{30}==\frac{100-52.63}{30}=1.58A$$
+$$I_{50\Omega}=\frac{V}{50}=\frac{52.63}{50}=1.05A$$
+$$I_{100\Omega}=\frac{V}{50}=\frac{52.63}{100}=0.53A$$
 
-<img width="570" height="760" alt="Screenshot 2025-11-18 220500" src="https://github.com/user-attachments/assets/f7a9603b-2b6d-48d4-a4db-96676f0d03f8" />
-
-
-
-<img width="323" height="433" alt="Screenshot 2025-11-18 220231" src="https://github.com/user-attachments/assets/5ac28cd2-751d-421c-82b5-c017dec56ced" />
 
 
 Tabulation:
